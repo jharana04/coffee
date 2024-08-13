@@ -1,0 +1,250 @@
+[
+  {
+    "_id": "1",
+    "name": "Espresso",
+    "description": "Intense and rich coffee brewed by forcing hot water under pressure through finely-ground coffee beans.",
+    "image": "/images/recipes/espresso.png",
+    "category": "coffee",
+    "price": 2.5
+  },
+  {
+    "_id": "2",
+    "name": "Cappuccino",
+    "description": "Espresso mixed with steamed milk and topped with a thick layer of milk foam.",
+    "image": "/images/recipes/cappuccino.png",
+    "category": "coffee",
+    "price": 3.5
+  },
+  {
+    "_id": "3",
+    "name": "Latte",
+    "description": "Creamy espresso-based drink made with steamed milk and a small amount of foam.",
+    "image": "/images/recipes/latte.png",
+    "category": "coffee",
+    "price": 4.0
+  },
+  {
+    "_id": "4",
+    "name": "Mocha",
+    "description": "Espresso combined with steamed milk, chocolate syrup, and topped with whipped cream.",
+    "image": "/images/recipes/mocha.PNG",
+    "category": "coffee",
+    "price": 4.5
+  },
+  {
+    "_id": "5",
+    "name": "Americano",
+    "description": "Diluted espresso with hot water, resulting in a similar strength to regular coffee but with a different flavor profile.",
+    "image": "/images/recipes/americano.png",
+    "category": "coffee",
+    "price": 3.0
+  },
+  {
+    "_id": "6",
+    "name": "Macchiato",
+    "description": "Espresso with a small amount of steamed milk, creating a bold coffee flavor with a touch of creaminess.",
+    "image": "/images/recipes/Macchiato.PNG",
+    "category": "coffee",
+    "price": 3.2
+  },
+  {
+    "_id": "7",
+    "name": "Flat White",
+    "description": "Similar to a latte but with a higher ratio of coffee to milk, resulting in a stronger coffee flavor.",
+    "image": "/images/recipes/Flat White.png",
+    "category": "coffee",
+    "price": 4.2
+  },
+  {
+    "_id": "8",
+    "name": "Affogato",
+    "description": "A dessert-style coffee made by pouring hot espresso over a scoop of vanilla ice cream.",
+    "image": "/images/recipes/Affogato.png",
+    "category": "coffee",
+    "price": 5.0
+  },
+  {
+    "_id": "9",
+    "name": "Irish Coffee",
+    "description": "Hot coffee mixed with Irish whiskey, sugar, and topped with cream, typically served in a glass mug.",
+    "image": "/images/recipes/Irish Coffee.png",
+    "category": "coffee",
+    "price": 6.0
+  },
+  {
+    "_id": "10",
+    "name": "Iced Coffee",
+    "description": "Chilled coffee served over ice, perfect for hot summer days.",
+    "image": "/images/recipes/Iced Coffee.PNG",
+    "category": "coffee",
+    "price": 4.5
+  },
+  {
+    "_id": "11",
+    "name": "Matcha Green Tea",
+    "description": "Our Matcha is a pure plant product made from Ceremonial Grade A, 100% Japanese green tea that is smooth and delicious.",
+    "image": "/images/recipes/tea1.png",
+    "category": "Tea & Herbal infusion",
+    "price": 24
+  },
+  {
+    "_id": "12",
+    "name": "Vanilla Matcha Green Tea",
+    "description": "Our Matcha is a pure plant product made from Ceremonial Grade A, 100% Japanese green tea that is smooth and delicious.",
+    "image": "/images/recipes/tea2.png",
+    "category": "Tea & Herbal infusion",
+    "price": 25
+  },
+  {
+    "_id": "13",
+    "name": "Mango Matcha Green Tea",
+    "description": "Our Matcha is a pure plant product made from Ceremonial Grade A, 100% Japanese green tea that is smooth and delicious.",
+    "image": "/images/recipes/tea3.png",
+    "category": "Tea & Herbal infusion",
+    "price": 25
+  },
+  {
+    "_id": "14",
+    "name": "Chocolate Matcha Green Tea",
+    "description": "Our Matcha is a pure plant product made from Ceremonial Grade A, 100% Japanese green tea that is smooth and delicious.",
+    "image": "/images/recipes/tea4.png",
+    "category": "Tea & Herbal infusion",
+    "price": 25
+  },
+  {
+    "_id": "15",
+    "name": "Vanilla Blend ",
+    "description": "This medium roast brew is light, delicious and dreamy, with hints of Madagascar vanilla and roasted nuts.",
+    "image": "/images/recipes/beans1.png",
+    "category": "Coffee Beans",
+    "price": 16
+  },
+  {
+    "_id": "16",
+    "name": "Social dog blend ",
+    "description": "Each blend features a unique animal inspired by the characteristics of the coffee.",
+    "image": "/images/recipes/beans2.png",
+    "category": "Coffee Beans",
+    "price": 44
+  },
+  {
+    "_id": "17",
+    "name": "Early Bird blend ",
+    "description": "Each blend features a unique animal inspired by the characteristics of the coffee.",
+    "image": "/images/recipes/beans3.png",
+    "category": "Coffee Beans",
+    "price": 44
+  },
+  {
+    "_id": "18",
+    "name": "Espresso blend ",
+    "description": "Each blend features a unique animal inspired by the characteristics of the coffee.",
+    "image": "/images/recipes/beans4.png",
+    "category": "Coffee Beans",
+    "price": 44
+  },
+  {
+    "_id": "19",
+    "name": "Original Family blend ",
+    "description": "Each blend features a unique animal inspired by the characteristics of the coffee.",
+    "image": "/images/recipes/beans5.png",
+    "category": "Coffee Beans",
+    "price": 44
+  },
+  {
+    "_id": "20",
+    "name": "Hazelnut blend",
+    "description": "Each blend features a unique animal inspired by the characteristics of the coffee.",
+    "image": "/images/recipes/beans6.png",
+    "category": "Coffee Beans",
+    "price": 44
+  },
+  {
+    "_id": "21",
+    "name": "Yellow Double Wall Mug",
+    "description": "Introducing an exclusive, limited-edition accessory for your daily routine. This colorful cup is fancy and functional, with extra insulation keeping your favorite beverage warm all day long. ",
+    "image": "/images/recipes/acc1.png",
+    "category": "Coffee Accessories",
+    "price": 18
+  },
+  {
+    "_id": "22",
+    "name": "Square Cold Brew Mason jar",
+    "description": "Introducing an exclusive, limited-edition accessory for your daily routine. This colorful cup is fancy and functional, with extra insulation keeping your favorite beverage warm all day long. ",
+    "image": "/images/recipes/acc2.png",
+    "category": "Coffee Accessories",
+    "price": 16
+  },
+  {
+    "_id": "23",
+    "name": "Transparent Tumbler",
+    "description": "Introducing an exclusive, limited-edition accessory for your daily routine. This colorful cup is fancy and functional, with extra insulation keeping your favorite beverage warm all day long. ",
+    "image": "/images/recipes/acc3.png",
+    "category": "Coffee Accessories",
+    "price": 22
+  },
+  {
+    "_id": "24",
+    "name": "Round Cold Brew Mason Jar",
+    "description": "Introducing an exclusive, limited-edition accessory for your daily routine. This colorful cup is fancy and functional, with extra insulation keeping your favorite beverage warm all day long. ",
+    "image": "/images/recipes/acc4.png",
+    "category": "Coffee Accessories",
+    "price": 16
+  },
+  {
+    "_id": "25",
+    "name": "Cold Brew Mason Jar",
+    "description": "Introducing an exclusive, limited-edition accessory for your daily routine. This colorful cup is fancy and functional, with extra insulation keeping your favorite beverage warm all day long. ",
+    "image": "/images/recipes/acc5.png",
+    "category": "Coffee Accessories",
+    "price": 18
+  },
+  {
+    "_id": "26",
+    "name": "Cupcake ",
+    "description": "Indulge in our delectable cupcakes, each lovingly crafted with the finest ingredients and attention to detail. Perfect for satisfying your sweet cravings or celebrating special occasions, our cupcakes are sure to delight your taste buds. From classic flavors like chocolate and vanilla to unique creations like red velvet and salted caramel, there's something for everyone to enjoy. ",
+    "image": "/images/recipes/sweets1.png",
+    "category": "Sweet Treats",
+    "price": 10
+  },
+  {
+    "_id": "27",
+    "name": "Muffin Ganache Buttercream",
+    "description": "The Muffin Ganache Buttercream is a delectable treat consisting of a moist muffin base topped with a layer of indulgent chocolate ganache and finished with a creamy buttercream frosting. ",
+    "image": "/images/recipes/sweets2.png",
+    "category": "Sweet Treats",
+    "price": 15.25
+  },
+  {
+    "_id": "28",
+    "name": "Chocolate brownie",
+    "description": "A chocolate brownie is a rich and decadent dessert made with chocolate, butter, sugar, eggs, and flour. It has a dense, fudgy texture and a deep chocolate flavor. ",
+    "image": "/images/recipes/sweets3.png",
+    "category": "Sweet Treats",
+    "price": 3.99
+  },
+  {
+    "_id": "29",
+    "name": "Cheesecake Cuisine Recipe",
+    "description": "Creamy cheesecake made with cream cheese, sugar, and eggs on a graham cracker crust. ",
+    "image": "/images/recipes/sweets4.png",
+    "category": "Sweet Treats",
+    "price": 25
+  },
+  {
+    "_id": "30",
+    "name": "Mini Cake",
+    "description": "Kazandibi is loved for its creamy texture, rich flavor, and the contrast between the smooth pudding and the caramelized bottom layer. It's a comforting and indulgent dessert that is enjoyed throughout Turkey and in many other countries where Turkish cuisine is appreciated. ",
+    "image": "/images/recipes/sweets5.png",
+    "category": "Sweet Treats",
+    "price": 10
+  },
+  {
+    "_id": "31",
+    "name": "Waffles with Fresh Strawberries",
+    "description": "reat yourself to a delicious stack of golden waffles topped with ripe, juicy strawberries. Our fluffy waffles are made to order, perfectly crisp on the outside and fluffy on the inside. Each bite is a delightful combination of warm, buttery waffles and the natural sweetness of fresh strawberries. Whether you're starting your day off right or indulging in a leisurely brunch, our waffles with fresh strawberries are sure to satisfy your cravings and leave you craving more.",
+    "image": "/images/recipes/sweets6.png",
+    "category": "Sweet Treats",
+    "price": 12
+  }
+]
